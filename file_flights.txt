@@ -1,0 +1,5 @@
+vuelo1,ontime
+vuelo2,ontime
+vuelo777,delay
+vuelo50,delay
+VueloNuevo1,onTime
